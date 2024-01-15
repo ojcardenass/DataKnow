@@ -1,6 +1,0 @@
-Documentacion tests
-
-Test 1:
-- Definir la carpeta base sobre la cual se abriran o guardaran los archivos
-- Abrir el archivo con with para tener una gestion automatica del archivo
-- Se define una funcion process_txt para
